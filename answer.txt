@@ -1,0 +1,9 @@
+
+A1. gitignore is a file which git to ignore some files while comitting the project to the GitHub repository. It is located in the root directory of the repo. / will ignore directories with the name.
+
+A2. Fast-forward merges literally move your main branch's tip forward to the end of your feature branch.
+ This keeps all commits created in your feature branch sequential while integrating it neatly back into your main branch.
+
+A3. We need multiple  branches to enable multiple people working on the same feature. Working on the branches doesnot effect the main branch until it is merged.
+
+A4. Depending on the project there can be as many git repositories as you want. But there will be only one origin.
